@@ -32,7 +32,7 @@ st.markdown("""
         color: #5D6D7E;
     }
     .box {
-        background-color: #EBF5FB;
+        background-color: #1756bd;
         padding: 15px;
         border-radius: 10px;
         border-left: 6px solid #3498DB;
